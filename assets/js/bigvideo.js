@@ -97,7 +97,7 @@ function onYouTubePlayerAPIReady() {
 		return movieURL;
 	};
 
-
+/*
 	jQuery.mbYTPlayer = {
 		name           : "jquery.mb.YTPlayer",
 		version        : "2.6.5",

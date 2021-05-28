@@ -20,9 +20,7 @@ body {
     transition: all 0.3s ease-in-out;
 }
 
-.col-xs-9{
-    background-color: #0E0E0E;
-}
+
 
 a, a:hover {
     -webkit-transition: all 0.3s ease-in-out;
@@ -859,6 +857,10 @@ footer h1,footer h2,footer h3,footer h4,footer h5,footer h6,footer p,.dark-overl
     
      html, body{
         overflow-x: hidden;
+    }
+    
+    .col-xs-9{
+    background-color: #0E0E0E;
     }
 
     .hover-shift:hover .dark-overlay.fill-right {
